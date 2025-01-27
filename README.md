@@ -2,10 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dhia+Ouerghemmi!;" />
 </h1>
 
-**`Computer Science Student | AI enthusiast | IEEE Volunteer`**
-
-As a new computer science student, I am deeply fascinated by the potential of AI and big data to transform the world. Although I am just beginning my journey in this field, I am eager to learn and develop my skills. I have started exploring Python and data science fundamentals, and I am currently working on small projects to build a strong foundation. My goal is to contribute to meaningful projects in AI and big data as I continue to grow and expand my knowledge. I am enthusiastic about collaborating with others and learning from every experience.
-
+**`Software Engineer | AI enthusiast `**
 <div align="center"> 
   <a href="dhiaouerghemmi@ieee.org">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
