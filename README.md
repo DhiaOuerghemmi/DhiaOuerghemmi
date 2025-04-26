@@ -2,10 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dhia+Ouerghemmi!;" />
 </h1>
 
-<h2 align="center">Software Developer | AI Enthusiast 🚀</h2>
+<h2 align="center">Aspiring Cloud DevOps Engineer  🚀</h2>
 
 <p align="center">
-  Passionate about crafting elegant solutions with code 💻 and exploring the boundless possibilities of Artificial Intelligence 🤖. I'm driven to leverage technology for solving real-world problems and building innovative applications. Let's connect and shape the future, one line of code at a time! 💡
+  Passionate about crafting elegant solutions with code 💻 and exploring the boundless possibilities of Cloud and DevOps 🤖. I'm driven to leverage technology for solving real-world problems and building innovative applications. Let's connect and shape the future, one line of code at a time! 💡
 </p>
 
 <div align="center">
